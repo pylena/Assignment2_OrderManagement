@@ -22,6 +22,6 @@
 [Visit this repo](https://github.com/pylena/Amazon_Java.git)
 
 ### Part 3:
-[Visit this repo](#soon)
+[Visit this repo](#)
 
 
